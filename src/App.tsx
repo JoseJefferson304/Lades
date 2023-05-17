@@ -17,7 +17,7 @@ function App() {
       <main>
         <section id="sobre">
           <div className="container">
-            <h1>Instituto Federal do Rio Grande do Norte</h1>
+            <h1>Instituto Federal do Rio Grande do Norte </h1>
             <p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) é uma instituição federal de ensino superior, técnico e básico, localizada no estado do Rio Grande do Norte. A instituição conta com vários campi espalhados pelo estado, incluindo o Campus Natal Central.</p>
             <p>O Campus Natal Central é um dos principais campi do IFRN, oferecendo cursos de nível médio e superior em diversas áreas, como tecnologia, engenharia, ciências exatas e humanas.</p>
             <p>Este é um projeto de teste para o professor Alessandro, onde o aluno José Jefferson está colocando em prática o que aprendeu nos últimos 8 dias.</p>
